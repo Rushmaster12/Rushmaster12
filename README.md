@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I AM RUSH MASTER ☯️👋
+     
+     *BOT DEPLOYER* 
 
 <!--
 **Rushmaster12/Rushmaster12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
