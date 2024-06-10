@@ -2,7 +2,7 @@
 <p align="center">
 
 
-<a href="https://wa.me//+917020728211?text=_𝑯𝒆𝒚★RUSH_MASTER_WHAT'S_UP_BRØ🚩" target="_blank">
+<a href="https://wa.me//+917020728211?text=__𝑯𝑬𝒀★𝗥𝗨𝗦𝗛_𝗠𝗔𝗦𝗧𝗘𝗥_𝗪𝗛𝗔𝗧'𝗦_𝗨𝗣_𝗕𝗥𝗢🥰_𝑰_𝑪𝑨𝑵_𝑯𝑬𝑳𝑷_𝒀𝑶𝑼_🙏🏻" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
