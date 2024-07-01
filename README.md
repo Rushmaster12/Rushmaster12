@@ -6,7 +6,7 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-[![RUSH-MASTER-]([https://telegra.ph/file/83381569456ee88c833b9.jpg]
+[![RUSH-MASTER-]([https://telegra.ph/file/83381569456ee88c833b9.jpg])
 
 
 
