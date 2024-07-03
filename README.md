@@ -6,4 +6,4 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-[![ROMEK-XD-BOT](https://telegra.ph/file/9486f552be0cd9ab233fa.jpg)]
+[![ROMEK-XD-BOT](https://telegra.ph/file/81726c676f1cf11c917c1.jpg)]
