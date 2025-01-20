@@ -23,12 +23,3 @@
 
 
 [![ROMEK-XD-BOT](https://telegra.ph/file/81726c676f1cf11c917c1.jpg)]
-
-
-
-
-
-
-
-
-# Hi, I'm Abhishek <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> , <br> A passionate developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
