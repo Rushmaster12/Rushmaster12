@@ -29,3 +29,30 @@
 
 
 
+# Hi, I'm Abhishek <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> , <br> A passionate developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
+
+[![](https://visitcount.itsvg.in/api?id=abhishekbr&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="25px">
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Abhishek-B-R">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="25px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/abhi__br/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="25px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/AbhiCodes01">
+    <img src="https://img.freepik.com/premium-vector/new-twitter-x-logo-vector-twitter-x-sign-vector_952796-6.jpg" width="25px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/abhishek_br_b4b1f4db3f18">
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" width="25px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:byteblaster1468@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="25px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/channels/@abhishekbr01">
+    <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" width="25px">
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
