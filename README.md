@@ -30,36 +30,6 @@
 
 
 
-const container = document.getElementById("animation-container");
 
-// Generate random bubbles
-function createBubble() {
-  const bubble = document.createElement("div");
-  bubble.classList.add("bubble");
-  
-  // Random size
-  const size = Math.random() * 50 + 20; // 20px to 70px
-  bubble.style.width = `${size}px`;
-  bubble.style.height = `${size}px`;
-  
-  // Random position
-  bubble.style.left = `${Math.random() * 100}vw`;
-  bubble.style.bottom = `-10%`;
-  
-  // Random color
-  bubble.style.background = `rgba(${Math.random() * 255}, ${Math.random() * 255}, ${Math.random() * 255}, 0.5)`;
-  
-  // Random animation duration
-  const duration = Math.random() * 5 + 5; // 5s to 10s
-  bubble.style.animationDuration = `${duration}s`;
-  
-  container.appendChild(bubble);
-  
-  // Remove bubble after animation ends
-  setTimeout(() => {
-    bubble.remove();
-  }, duration * 1000);
-}
 
-// Create bubbles at regular intervals
-setInterval(createBubble, 500);
+
