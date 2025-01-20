@@ -6,13 +6,11 @@
 </br>
 
 <div align="center"> 
-  <a href="mailto:sparkymon777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://wa.me/917012984396" target="_blank">
+  
+  <a href="https://wa.me/917020728211" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href="https://instagram.com/sparky.drip" target="_blank">
+  <a href="https://instagram.com/hrutik_official_12" target="_blank">
      <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
