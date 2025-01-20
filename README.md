@@ -22,6 +22,14 @@
     </p>
 
 
+## MY GITHUB STATUS
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guru322/Guru322/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=800&height=100&lines=𝗜𝗧𝗦%20𝞒𝙐𝙎𝞖-𝞛𝞓𝙎𝙏𝞢𝞒-𝗕𝗢𝗧;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗥𝐔𝐒𝐇%20𝐌𝐀𝐒𝐓𝐄𝐑)
