@@ -20,10 +20,6 @@
 <p align="center">
 
 
-<a href="https://wa.me//+917020728211?text=__𝑯𝑬𝒀★𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪_☯️_𝗪𝗛𝗔𝗧'𝗦_𝗨𝗣_𝗕𝗥𝗢🥰_𝐇𝐄𝐋𝐏_𝐌𝐄_𝐏𝐋𝐄𝐀𝐒𝐄_𝐒𝐈𝐑🙏🏻" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
 [![ROMEK-XD-BOT](https://telegra.ph/file/81726c676f1cf11c917c1.jpg)]
 
 
