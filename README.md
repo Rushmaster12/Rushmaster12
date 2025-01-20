@@ -3,7 +3,7 @@
 
 <div align="center"> 
   
-  <a href="https://wa.me/917020728211" target="_blank">
+  <a href="https://wa.me/917020728211?text=__𝑯𝑬𝒀★𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪_☯️_𝗪𝗛𝗔𝗧'𝗦_𝗨𝗣_𝗕𝗥𝗢🥰_𝐇𝐄𝐋𝐏_𝐌𝐄_𝐏𝐋𝐄𝐀𝐒𝐄_𝐒𝐈𝐑🙏🏻" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
   <a href="https://instagram.com/hrutik_official_12" target="_blank">
