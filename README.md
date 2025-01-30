@@ -1,4 +1,4 @@
-# Hi, I'm RUSH MASTER <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">, <br> I AM BOT DEPLOYER  <br>  FROM:- 🅸🅽🅳🅸🅰 <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
+# Hi, I'm RUSH MASTER <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">, <br> ɪ ᴀᴍ ʙᴏᴛ ᴅᴇᴘʟᴏʏᴇʀ 😎  <br>  ғᴏʀᴍ😎:- 🅸🅽🅳🅸🅰 <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
 
 ![My card name](https://cardivo.vercel.app/api?name=RUSH-MASTER%20&description=Hi,%20Welcome%20To%20My%20Profile%20I%20AM%20BOT%20DEPLOYER&image=https://avatars.githubusercontent.com/u/160727728?s=400&u=30b71fc499af61141695baec7d4171bd87dd2f69&v=4&backgroundColor=%23e4f2f6&instagram=hrutik_official_12&github=Rushmaster12&)
 </p>
