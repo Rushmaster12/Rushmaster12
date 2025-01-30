@@ -66,18 +66,7 @@
 
 
 
-
-<br>
-
-[![WASI's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Rushmaster12)
-<br>
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="WASI" />
 </p>
-
-
-
-
-
-
 
