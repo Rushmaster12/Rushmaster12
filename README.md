@@ -1,5 +1,5 @@
 <div align="center">
- #ʜɪ,ɪ'ᴀᴍ 𝐑𝐔𝐒𝐇 𝐌𝐀𝐒𝐓𝐄𝐑 ☯️ <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="100" height="100">, <br> ɪ ᴀᴍ ʙᴏᴛ ᴅᴇᴘʟᴏʏᴇʀ 😎  <br>  📍ғᴏʀᴍ:-ɪɴᴅɪᴀɴ <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="40">
+ #ʜɪ,ɪ'ᴀᴍ 𝐑𝐔𝐒𝐇 𝐌𝐀𝐒𝐓𝐄𝐑 ☯️ <img style="vertical-align: -10%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">, <br> ɪ ᴀᴍ ʙᴏᴛ ᴅᴇᴘʟᴏʏᴇʀ 😎  <br>  📍ғᴏʀᴍ:-ɪɴᴅɪᴀɴ <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="40">
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
