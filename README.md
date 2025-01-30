@@ -1,5 +1,10 @@
 # ʜɪ, ɪ'ᴀᴍ 𝐑𝐔𝐒𝐇 𝐌𝐀𝐒𝐓𝐄𝐑 ☯️ <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">, <br> ɪ ᴀᴍ ʙᴏᴛ ᴅᴇᴘʟᴏʏᴇʀ 😎  <br>  📍ғᴏʀᴍ:-ɪɴᴅɪᴀɴ <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="40">
 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 ![My card name](https://cardivo.vercel.app/api?name=RUSH-MASTER%20&description=Hi,%20Welcome%20To%20My%20Profile%20I%20AM%20BOT%20DEPLOYER&image=https://avatars.githubusercontent.com/u/160727728?s=400&u=30b71fc499af61141695baec7d4171bd87dd2f69&v=4&backgroundColor=%23e4f2f6&instagram=hrutik_official_12&github=Rushmaster12&)
 </p>
 
@@ -22,6 +27,11 @@
     </p>
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
 ## MY GITHUB STATUS
 
 <picture>
@@ -37,3 +47,26 @@
 
 
 [![ROMEK-XD-BOT](https://telegra.ph/file/81726c676f1cf11c917c1.jpg)]
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+
+
+
+<br>
+
+[![WASI's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Rushmaster12)
+<br>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="WASI" />
+</p>
+
+
+
+
+
+
+
