@@ -1,6 +1,5 @@
-<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐊𝐞𝐢𝐭𝐡 𝐊𝐞𝐢𝐳𝐳𝐚𝐡! <img src="https://telegra.ph/file/df6ddd1ba0af4316c494b.jpg" width="35"></h1>
-
- #ʜɪ,ɪ'ᴀᴍ 𝐑𝐔𝐒𝐇 𝐌𝐀𝐒𝐓𝐄𝐑 ☯️ <img style="vertical-align: -10%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">, <br> ɪ ᴀᴍ ʙᴏᴛ ᴅᴇᴘʟᴏʏᴇʀ 😎  <br>  📍ғᴏʀᴍ:-ɪɴᴅɪᴀɴ <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
+<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝚪𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝚪! <img src="https://telegra.ph/file/df6ddd1ba0af4316c494b.jpg" width="35"></h1>
+src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50">, <br> ɪ ᴀᴍ ʙᴏᴛ ᴅᴇᴘʟᴏʏᴇʀ 😎  <br>  📍ғᴏʀᴍ:-ɪɴᴅɪᴀɴ <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
