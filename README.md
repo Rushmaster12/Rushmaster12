@@ -66,6 +66,12 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
+<div align="center">
+  <h2>✨ Thanks for visiting my GitHub! ✨</h2>
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="300" alt="Thanks Gif">
+</div>
+
+
 
 
 <p align="center">
