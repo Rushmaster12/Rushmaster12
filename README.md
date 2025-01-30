@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝚪𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝚪! <img src="https://telegra.ph/file/81726c676f1cf11c917c1.jpg" width="35"></h1>
+<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐑𝐔𝐒𝐇-𝐌𝐀𝐒𝐓𝐄𝐑! <img src="https://telegra.ph/file/81726c676f1cf11c917c1.jpg" width="35"></h1>
 <h1 align="center">ɪ ᴀᴍ ʙᴏᴛ ᴅᴇᴘʟᴏʏᴇʀ 😎 <br>📍ғᴏʀᴍ:-ɪɴᴅɪᴀ <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="28">
 
 
