@@ -30,6 +30,9 @@
 
 <p align="center">
 <a href="https://youtube.com/@rahulhiran4733"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@rahulhiran4733" /><br>
+ 
+  
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/hrutik_official) 
   
 </p>
 <p align="center">
