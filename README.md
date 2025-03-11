@@ -1,6 +1,6 @@
 <h1 align="center">🎉WELL COME TO MY PROFILE ☺️</h1>
-<h1 align="center"># Hi 👋, I'm 𝐑𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝐑 ☯️! <img src="https://telegra.ph/file/81726c676f1cf11c917c1.jpg" width="31"></h1>
-<h1 align="center"><b>ʜι ɪ,ʍ 𝐑𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝐑☯️ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"># Hi 👋, I'm 𝐑𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝐑 ☯️! <img src="https://telegra.ph/file/81726c676f1cf11c917c1.jpg" width="35"></h1>
+<h1 align="center"><b>ʜι ɪ,ʍ 𝐑𝐔𝐒𝚮 𝚳𝚫𝐒𝚻𝚵𝐑☯️ </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="37"></h1>
 
 <h1 align="center">ɪ ᴀᴍ ʙᴏᴛ ᴅᴇᴘʟᴏʏᴇʀ 😎 <br>📍ғᴏʀᴍ:-ɪɴᴅɪᴀ <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="28">
 
