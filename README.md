@@ -61,7 +61,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=800&height=100&lines=𝗜𝗧𝗦%20𝞒𝙐𝙎𝞖-𝞛𝞓𝙎𝙏𝞢𝞒-𝗕𝗢𝗧;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗥𝐔𝐒𝐇%20𝐌𝐀𝐒𝐓𝐄𝐑)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=800&height=100&lines=𝗜𝗧𝗦%20𝐑𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝐑-☯️-𝗕𝗢𝗧;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗥𝐔𝐒𝐇%20𝐌𝐀𝐒𝐓𝐄𝐑)
 <p align="center">
 
 
